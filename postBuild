@@ -1,4 +1,4 @@
 #!/bin/bash
 
 set -ex
-echo 'This is Nisha\'s postBuild file'
+echo "This is Nisha's postBuild file"
